@@ -1,0 +1,16 @@
+#The config file for the Extraction Master Sheet
+sheets_to_combine: # format [spreadsheet_id, sheet_name]
+  - ['16Zg1MbMupnkXzuypTg4aF37OMyytPd-ZRqfz9QNX2oI', 'Sheet1']
+  - ['1aXN_HmGRDgDLvkz1Dbkje6R7rUUg9mNNc630YN8HvFE', 'Sheet1']
+  - ['1r94A1MB5Gih0djnwEdxB15gv_h16EQ1qkUWZ8VUlW3I', 'Sheet1']
+  - ['1HPXc9LFixqyo-pDRfcn71N7OO-OJtWUdIbBdo62cnjA', 'Sheet1']
+  - ['1KTs7LiITWi4DxmAjevH19HkWzKDY4CSkmd184dKmKxQ', 'Extraction Sheets']
+  - ['1K4XrXplTNukaeIY_UQ_XXuYLBuvJwJmaeEbAZvHSiEI', 'Extraction Sheet']
+  - ['1Wqg7Xjqhh1c5u1S6eTsY45fxzFOBxASF2oPkMno4580', 'Extraction Sheet']
+  - ['1_Oa4CievaRjUFxI7xceAA3NIS6IlUdobtA0_Ahi1arI', 'Extraction Sheet']
+  - ['1I5WKkoXY_TBQbVDe16KSAAZxG5vKptbQW9MArA8WtWA', 'Extraction Sheet']
+  - ['1LftDxnIXT6rsPExrotJDRuGyzyxo77kl_OBlsbZDe6c', 'Extraction Sheet']
+  - ['15Y9PHErqbco65sbAZzqWI75PH9dqsSZNhvPdO-tHFJY', 'Extraction Sheet']
+
+destination_spreadsheet_id: '1x8Fe44qQRQE1RlXnDkj6Kx0aN9Ra0--eaHH09P_zhwo'
+destination_sheet_name: 'Sheet1'
