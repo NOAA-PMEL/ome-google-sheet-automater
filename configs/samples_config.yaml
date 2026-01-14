@@ -1,0 +1,16 @@
+#The config file for the Sample Master Sheet
+sheets_to_combine: # format [spreadsheet_id, sheet_name]
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+  - []
+
+destination_spreadsheet_id: 
+destination_sheet_name: 
